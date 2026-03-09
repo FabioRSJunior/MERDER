@@ -29,7 +29,7 @@ If you use this repository, please cite both the software archive and the associ
 
 The archived version of this repository is available on Zenodo:
 
-**Souza Junior, F. R. de. (2026). _Line-Following Control with PID and Deep Reinforcement Learning in Simulation (Zenodo_meder)_. Zenodo.**  
-https://doi.org/10.5281/zenodo.18925069
+Souza Junior, F. R. de . (2026). Line-Following Control with PID and Deep Reinforcement Learning in Simulation (follower_meder). Zenodo. https://doi.org/10.5281/zenodo.18925646
 
 For standardized citation metadata, see the `CITATION.cff` file in the root of this repository.
+
